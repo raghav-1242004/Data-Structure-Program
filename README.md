@@ -80,7 +80,7 @@ DSA
 ## 💻 Languages & Technologies
 
 ### Programming
-`Python` `C` `C++` `JavaScript`
+`Python` `C` `Java` `JavaScript`
 
 ### Data & Analytics
 `Python` `Pandas` `NumPy` `Power BI` `SQL`
