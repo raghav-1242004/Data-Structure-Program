@@ -204,8 +204,8 @@ I enjoy building **real-world projects** and applying what I learn to practical 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/)
+- 💼 LinkedIn: https://www.linkedin.com/in/raghav-agrawal-126980313/
+- 🐙 GitHub: https://github.com/raghav-1242004
 - 📧 Email: raghavkuamr1242004@gmail.com
 
 ---
