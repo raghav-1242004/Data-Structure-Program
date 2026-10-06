@@ -6,74 +6,133 @@ Welcome to my GitHub! 🚀
 
 I use this space to document my journey in **Data Structures & Algorithms, Programming, Data Science, and Software Development**.
 
-Currently, I am focused on solving DSA problems consistently, improving my problem-solving skills, and building a strong foundation for technical interviews.
+Currently, I am focused on solving **LeetCode problems consistently**, strengthening my problem-solving skills, and building a strong foundation for technical interviews.
 
 ---
 
 ## 🧠 My DSA Journey
 
-I am actively solving and documenting **Data Structures & Algorithms problems** with clean, understandable, and optimized solutions.
+This repository is a collection of my **LeetCode problem-solving journey**.
 
-### 📚 Topics I'm Covering
+Each problem is organized using its **original LeetCode problem number and title**, making it easy to search, track, and revisit problems.
+
+My approach is simple:
+
+> **Understand → Solve → Optimize → Analyze → Document → Repeat**
+
+The goal is not just to solve problems, but to understand the **logic, approach, optimization, and complexity** behind every solution.
+
+---
+
+## 📂 Repository Structure
+
+Each LeetCode problem follows the original **LeetCode Problem Number**.
+
+```text
+LeetCode-DSA
+│
+├── 0001-Two-Sum
+│   ├── README.md
+│   └── solution.py
+│
+├── 0009-Palindrome-Number
+│   ├── README.md
+│   └── solution.py
+│
+├── 0013-Roman-to-Integer
+│   ├── README.md
+│   └── solution.py
+│
+└── ...
+```
+
+### 📌 Why LeetCode Numbers?
+
+The original problem number is preserved so that a problem can be easily identified and searched directly on LeetCode.
+
+---
+
+# 📊 LeetCode Problem Tracking
+
+> 📌 **Note:** This table will be updated continuously as I solve new LeetCode problems.  
+> Each problem keeps its **original LeetCode problem number**.
+
+| # | Problem | Difficulty | Topic | Language | Status | Solution |
+|---:|---|:---:|---|:---:|:---:|:---:|
+| — | No problems added yet | — | — | — | ⏳ In Progress | — |
+
+### 📈 Progress
+
+| Category | Count |
+|:---:|---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **0** |
+| 🔴 Hard | **0** |
+| 🏆 Total Solved | **0** |
+
+> 🚀 **Progress will grow one problem at a time.**
+
+---
+
+## 📝 Problem Solution Format
+
+For every problem, I aim to document:
+
+```text
+Problem
+   ↓
+Understanding
+   ↓
+Approach
+   ↓
+Solution
+   ↓
+Time Complexity
+   ↓
+Space Complexity
+```
+
+Each solution focuses on **clarity, correctness, and optimization**.
+
+---
+
+## 🗂️ Topics
+
+As I progress, I will cover topics including:
 
 - 🔢 Arrays
 - 🔤 Strings
-- 🔗 Linked List
+- 🗺️ Hash Table
+- 👉 Two Pointers
+- 🪟 Sliding Window
 - 📚 Stack
 - 🚶 Queue
+- 🔗 Linked List
+- 🔍 Binary Search
+- 🔃 Sorting
+- 🧮 Recursion
 - 🌳 Trees
 - 🌲 Binary Search Tree
 - 🕸️ Graphs
-- 🔍 Searching
-- 🔃 Sorting
-- 🧮 Recursion
-- ⚡ Dynamic Programming
-- 🧩 Backtracking
-- 🗺️ Hashing
 - 🧱 Heap & Priority Queue
+- 🧩 Backtracking
 - 🎯 Greedy Algorithms
-- ⏱️ Time & Space Complexity
+- ⚡ Dynamic Programming
+- 💡 Bit Manipulation
+- 🔢 Mathematics
 
 ---
 
-## 📂 DSA Repository
-
-### 🔥 DSA Questions & Solutions
-
-My DSA repository contains problems organized by topic and difficulty.
-
-**Goal:** Solve problems consistently and understand the logic behind every solution rather than simply memorizing code.
-
-```text
-DSA
-├── Arrays
-├── Strings
-├── Linked List
-├── Stack
-├── Queue
-├── Recursion
-├── Searching
-├── Sorting
-├── Trees
-├── Graphs
-├── Heap
-├── Hashing
-├── Greedy
-├── Backtracking
-└── Dynamic Programming
-```
-
----
-
-## 📈 Problem-Solving Goals
+## 🎯 My DSA Goals
 
 - ✅ Build strong DSA fundamentals
-- ✅ Improve logical thinking
+- ✅ Improve logical and analytical thinking
+- ✅ Solve problems consistently
 - ✅ Learn optimized approaches
 - ✅ Understand Time & Space Complexity
-- ✅ Solve problems consistently
+- ✅ Write clean and readable code
 - ✅ Prepare for technical interviews
-- ✅ Maintain clean and readable code
+- ✅ Build a strong problem-solving portfolio
 
 ---
 
@@ -83,7 +142,7 @@ DSA
 `Python` `C` `Java` `JavaScript`
 
 ### Data & Analytics
-`Python` `Pandas` `NumPy` `Power BI` `SQL`
+`Python` `Pandas` `NumPy` `SQL` `Power BI`
 
 ### Development
 `HTML` `CSS` `JavaScript` `Flask`
@@ -93,13 +152,18 @@ DSA
 
 ---
 
-## 🏆 My Approach
+## 🚀 Beyond DSA
 
-> **Understand → Solve → Optimize → Document → Repeat**
+Along with DSA, I am also interested in:
 
-I believe DSA is not just about solving a problem.
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Development
+- 🧠 Problem Solving
+- 📈 Business Intelligence
+- 🌐 Web Development
 
-It's about understanding **why a solution works**, analyzing its complexity, and finding a better approach when possible.
+I enjoy building **real-world projects** and applying what I learn to practical problems.
 
 ---
 
@@ -115,47 +179,34 @@ It's about understanding **why a solution works**, analyzing its complexity, and
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Current Focus
 
 ```text
-DSA & Problem Solving     █████████░  90%
-Python                    █████████░  90%
-Data Analytics            ████████░░  80%
-Software Development      ████████░░  80%
-Machine Learning          ███████░░░  70%
+🧠 DSA & Problem Solving
+🐍 Python
+📊 Data Analytics
+🤖 AI & Machine Learning
+💻 Software Development
 ```
 
 ---
 
-## 🚀 What I'm Working On
+## 📌 What I'm Working On
 
-- 🧠 Solving DSA problems regularly
-- 📊 Building data analytics projects
+- 🧠 Solving LeetCode problems
+- 📚 Strengthening DSA fundamentals
+- 📊 Building Data Analytics projects
 - 🤖 Exploring AI & Machine Learning
-- 💻 Developing real-world software projects
-- 📚 Preparing for technical interviews
-- 🌱 Continuously improving my programming skills
-
----
-
-## 📌 Featured Repository
-
-🔹 **DSA Questions & Solutions**  
-A structured collection of Data Structures & Algorithms problems with solutions, explanations, and complexity analysis.
-
-🔹 **Data Science Projects**  
-Practical projects involving data analysis, visualization, machine learning, and business intelligence.
-
-🔹 **Software Development Projects**  
-Real-world applications and experiments built while learning and developing new skills.
+- 💻 Developing real-world applications
+- 🎯 Preparing for technical interviews
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
 - 🐙 GitHub: [@YOUR_USERNAME](https://github.com/)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: raghavkuamr1242004@gmail.com
 
 ---
 
@@ -163,10 +214,10 @@ Real-world applications and experiments built while learning and developing new 
 
 If you find my repositories useful, consider giving them a ⭐.
 
-It motivates me to keep learning, solving, and building! 🚀
+Your support motivates me to keep **learning, solving, and building**. 🚀
 
 ---
 
-### 💡 Keep Learning. Keep Solving. Keep Building.
+### 🔥 Keep Solving. Keep Learning. Keep Building.
 
-**“Consistency beats perfection.”** 💻🔥
+**One Problem at a Time. 💻🚀**
